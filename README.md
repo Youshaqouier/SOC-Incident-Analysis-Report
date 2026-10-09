@@ -1,4 +1,4 @@
-ؤ# 🛡️ SOC Incident Investigation: Detection & Analysis Report
+# 🛡️ SOC Incident Investigation: Detection & Analysis Report
 
 ## 1. Executive Summary
 During routine log monitoring, an anomaly was detected involving an internal workstation sending suspicious outbound traffic over non-standard ports. This report documents the complete investigation lifecycle—from initial alert detection using Suricata IDS, to deep packet investigation with Wireshark, root-cause correlation via Splunk (SPL), and final containment and remediation actions.
